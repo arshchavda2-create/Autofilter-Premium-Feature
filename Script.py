@@ -1,7 +1,5 @@
 class script(object):
-   START_TXT = """<b><u>
-
-🚩JAI SHRI RAM 🚩,☪️ ᴀꜱꜱᴀʟᴀᴍᴜ ᴀʟᴀɪᴋᴜᴍ ☪️</u></b> 
+   START_TXT = """<b><u>🚩JAI SHRI RAM 🚩</u></b> 
 """
 
 <b>ʜᴇʏ {}, {}</b>
@@ -10,7 +8,7 @@ class script(object):
 """
 
 
-    GSTART_TXT = """<b>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩,☪️ ᴀꜱꜱᴀʟᴀᴍᴜ ᴀʟᴀɪᴋᴜᴍ ☪️</b>
+    GSTART_TXT = """<b>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</b>
 
 <b>ʜᴇʏ {},</b>
 
