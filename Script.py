@@ -1,14 +1,15 @@
 class script(object):
-   START_TXT = """<b><u>🚩JAI SHRI RAM Assalamualaikum 🚩</u></b> 
-"""
+    START_TXT = """
+<b><u>🚩 JAI SHRI RAM ☪️ Assalamualaikum 🚩</u></b>
 
 <b>ʜᴇʏ {}, {}</b>
 
-<b>🤖 ɪ ᴀᴍ <a href=https://t.me/{}>{}</a>, ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.</b>
+<b>🤖 ɪ ᴀᴍ <a href="https://t.me/{}">{}</a>, ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.</b>
 """
 
-
-    GSTART_TXT = """<b>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ Assalamualaikum🚩</b>
+    GSTART_TXT = """
+<b>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ ☪️ Assalamualaikum 🚩</b>
+"""
 
 <b>ʜᴇʏ {},</b>
 
